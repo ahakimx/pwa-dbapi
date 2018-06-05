@@ -2,27 +2,26 @@
   "booking": [
  {
     "id": 1,
-    "jam": "Leanne Graham",
     "hari": {
       "senin": {
-      	"jam": "8",
+      	"jam": "8"
       	}
      
       "selasa": {
-      	"jam": "8",
+      	"jam": "8"
       	}
       	
       "rabu": {
-      	"jam": "8",
+      	"jam": "8"
       	}
       "kamis": {
-      	"jam": "8",
+      	"jam": "8"
       	}
       "jumat": {
-      	"jam": "8",
+      	"jam": "8"
       	}
       "sabtu": {
-      	"jam": "8",
+      	"jam": "8"
       	}
       }
     
