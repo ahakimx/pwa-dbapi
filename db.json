@@ -1,13 +1,12 @@
-
 {
-  "post": [
-  {"tanggal":"28/7/2017","jam":"6:13","nama":"Puff","hari":"senin"},
+  "booking": [
+{"tanggal":"28/7/2017","jam":"6:13","nama":"Puff","hari":"senin"},
 {"tanggal":"16/6/2017","jam":"8:56","nama":"Zorana","hari":"selasa"},
 {"tanggal":"25/4/2018","jam":"1:09","nama":"Heidi","hari":"rabu"},
 {"tanggal":"5/2/2018","jam":"0:22","nama":"Roseanne","hari":null},
 {"tanggal":"5/1/2018","jam":"7:58","nama":"Rhianon","hari":null},
 {"tanggal":"1/1/2018","jam":"15:45","nama":"Felicio","hari":null},
 {"tanggal":"17/1/2018","jam":"0:19","nama":"Robers","hari":null},
-{"tanggal":"19/4/2018","jam":"6:58","nama":"Salim","hari":null},
+{"tanggal":"19/4/2018","jam":"6:58","nama":"Salim","hari":null}
    ]
 }
