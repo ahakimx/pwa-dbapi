@@ -8,7 +8,8 @@
     "email": "Sincere@april.biz",
     "hari": {
       "senin": {
-          "jam": ["8","endri","10"]
+          "jam8": ["8","endri","gabriel"],
+          "jam9": ["9","panji"]
       },
       "selasa": {
         "jam":"8"
