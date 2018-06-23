@@ -6,27 +6,11 @@
     "name": "Leanne Graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
-    "hari": {
-      "senin": {
+    "senin": {
           "jam8": ["8","endri","gabriel"],
           "jam9": ["9","panji"]
-      },
-      "selasa": {
-        "jam":"8"
-      },
-      "rabu": {
-          "jam":"8"
-      },
-      "kamis": {
-          "jam":"8"
-      },
-      "jumat": {
-          "jam":"8"
-      },
-      "sabtu": {
-          "jam":"8"
       }
-    }
+     
   },
   {
     "id": 2,
